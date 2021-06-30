@@ -1,0 +1,62 @@
+/* Common Styles */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  outline: none;
+  font-family: "Nunito" sans-serif;
+  font: 400;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+/* End of Common Styles */
+
+.navbar {
+  width: 100%;
+  height: 14rem;
+  background-color: #000;
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar-link {
+  color: #aaa;
+  margin: 0.4rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar-link:hover {
+  color: #fff;
+}
+
+.navbar-link i {
+  font-size: 7rem;
+}
+
+.navbar-link span {
+  font-size: 2.5rem;
+  font-weight: 900;
+  letter-spacing: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+/* Navbar */
+
+/* End of Navbar */
+
+/* Section 1 */
+
+/* End of Section 1 */
+
+/*Section 2 */
+/*End of Section 2 */
